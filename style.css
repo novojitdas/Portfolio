@@ -91,9 +91,12 @@ animation:
 
 /*mobile responsive code */
 @media (max-width:992px) {
-  .navbar-scroll .nav-link,
-  .navbar-scroll .navbar-toggler-icon {
+  .navbar-scroll .nav-link
+   {
     font-size: 3.5em;
-
+  }
+  .navbar-scroll .navbar-toggler-icon
+  {
+    font-size: 2.0em;
   }
 }
