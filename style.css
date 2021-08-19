@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+/* for padding between navbar and content */
+html {
+  scroll-padding-top: 100px;
+}
+
 
 /* Color of the links BEFORE scroll */
 .navbar-scroll .nav-link,
